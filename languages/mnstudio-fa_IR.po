@@ -1,0 +1,1075 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: _MNStudio PRO_\n"
+"POT-Creation-Date: 2025-05-18 20:16+0330\n"
+"PO-Revision-Date: 2025-05-18 20:16+0330\n"
+"Last-Translator: Amirhossein Hosseinpour <its@amirhp.com>\n"
+"Language-Team: Amirhossein Hosseinpour <its@amirhp.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: mnstudio-pro.php\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: include/class-cron.php:36
+msgid "Migrate CronJobs"
+msgstr "انتقال کران جاب"
+
+#: include/class-cron.php:221
+msgid "No eligible Legacy-Cronjob found to migrate, all good."
+msgstr "هیچ کران جاب قدیمی واجد شرایطی برای انتقال یافت نشد، همه چیز عالی است."
+
+#: include/class-cron.php:230
+msgid "Scheduled CronJobs"
+msgstr "کران جاب های زمانبندی شده"
+
+#: include/class-cron.php:237 include/class-stock-log.php:166
+msgctxt "setting-general"
+msgid "Advanced Search"
+msgstr "جستجوی پیشرفته"
+
+#: include/class-cron.php:238 include/class-stock-log.php:167
+msgctxt "setting-general"
+msgid "Select All"
+msgstr "انتخاب همه"
+
+#: include/class-cron.php:239 include/class-stock-log.php:168
+msgctxt "setting-general"
+msgid "Fix Database Structure"
+msgstr "بازسازی و تعمیر دیتابیس"
+
+#: include/class-cron.php:240 include/class-stock-log.php:169
+msgctxt "setting-general"
+msgid "Delete Selected"
+msgstr "حذف انتخاب شده ها"
+
+#: include/class-cron.php:241 include/class-stock-log.php:170
+msgctxt "setting-general"
+msgid "Empty Database"
+msgstr "خالی کردن دیتابیس"
+
+#: include/class-cron.php:242
+msgctxt "setting-general"
+msgid "Run Cronjob Processor"
+msgstr "اجرای پراسسور کران جاب"
+
+#: include/class-cron.php:243
+msgctxt "setting-general"
+msgid "Migrate Legacy-Cronjob"
+msgstr "انتقال کران جاب های قدیمی"
+
+#: include/class-cron.php:244
+msgctxt "setting-general"
+msgid "Toggle Success"
+msgstr "تاگل ردیف های موفق"
+
+#: include/class-cron.php:251 include/class-stock-log.php:177
+msgctxt "db-column"
+msgid "Mark/ID"
+msgstr "انتخاب/ایدی"
+
+#: include/class-cron.php:252 include/class-cron.php:265
+#: include/class-stock-log.php:178 include/class-stock-log.php:188
+msgctxt "db-column"
+msgid "Date Created"
+msgstr "تاریخ ایجاد"
+
+#: include/class-cron.php:253 include/class-cron.php:266
+msgctxt "db-column"
+msgid "Date Sent"
+msgstr "تاریخ ارسال"
+
+#: include/class-cron.php:254 include/class-cron.php:267
+msgctxt "db-column"
+msgid "Scheduled for"
+msgstr "زمان‌بندی"
+
+#: include/class-cron.php:255 include/class-cron.php:268
+#: include/class-stock-log.php:179 include/class-stock-log.php:189
+msgctxt "db-column"
+msgid "Order"
+msgstr "سفارش"
+
+#: include/class-cron.php:256 include/class-cron.php:269
+#: include/class-stock-log.php:180 include/class-stock-log.php:190
+msgctxt "db-column"
+msgid "Product"
+msgstr "محصول"
+
+#: include/class-cron.php:257 include/class-stock-log.php:181
+#: include/class-stock-log.php:191
+msgctxt "db-column"
+msgid "User"
+msgstr "کاربر"
+
+#: include/class-cron.php:258 include/class-cron.php:270
+msgctxt "db-column"
+msgid "Mobile"
+msgstr "موبایل"
+
+#: include/class-cron.php:259 include/class-cron.php:275
+msgctxt "db-column"
+msgid "Status"
+msgstr "وضعیت"
+
+#: include/class-cron.php:260 include/class-cron.php:276
+msgctxt "db-column"
+msgid "Refer"
+msgstr "ریفر"
+
+#: include/class-cron.php:261 include/class-cron.php:278
+#: include/class-stock-log.php:184 include/class-stock-log.php:193
+msgctxt "db-column"
+msgid "Result"
+msgstr "نتیجه"
+
+#: include/class-cron.php:262 include/class-stock-log.php:185
+msgctxt "db-column"
+msgid "Action"
+msgstr "عملیات"
+
+#: include/class-cron.php:271
+msgctxt "db-column"
+msgid "Type"
+msgstr "نوع"
+
+#: include/class-cron.php:272
+msgctxt "db-column"
+msgid "SMS Content"
+msgstr "متن پیامک"
+
+#: include/class-cron.php:273
+msgctxt "db-column"
+msgid "Email Body"
+msgstr "متن ایمیل"
+
+#: include/class-cron.php:274
+msgctxt "db-column"
+msgid "Email Subject"
+msgstr "موضوع ایمیل"
+
+#: include/class-cron.php:277 include/class-cron.php:292
+#: include/class-stock-log.php:195 include/class-stock-log.php:211
+msgctxt "db-column"
+msgid "Technical Info"
+msgstr "اطلاعات فنی"
+
+#: include/class-cron.php:282 include/class-stock-log.php:199
+msgid "Not Specified!"
+msgstr "مشخص نشد!"
+
+#: include/class-cron.php:292 include/class-stock-log.php:211
+#: include/class-stock-log.php:277
+msgid "View"
+msgstr "مشاهده"
+
+#: include/class-cron.php:293
+msgid "Retry entry"
+msgstr "تلاش مجدد"
+
+#: include/class-cron.php:294 include/class-stock-log.php:212
+msgid "Delete entry"
+msgstr "حذف مورد"
+
+#: include/class-cron.php:409 include/class-cron.php:411
+#: include/class-cron.php:450 include/class-cron.php:452
+#: include/class-cron.php:463 include/class-cron.php:465
+#: include/class-cron.php:477 include/class-cron.php:480
+#: include/class-cron.php:482 include/class-cron.php:494
+#: include/class-cron.php:496 include/class-stock-log.php:341
+#: include/class-stock-log.php:343 include/class-stock-log.php:354
+#: include/class-stock-log.php:357 include/class-stock-log.php:359
+#: include/class-stock-log.php:371 include/class-stock-log.php:373
+msgid "An unknown error occurred."
+msgstr "خطای پیش بینی نشده رخ داد."
+
+#: include/class-cron.php:414
+msgid "You should fill out all fields"
+msgstr "لطفا همه فیلدها را پر کنید"
+
+#: include/class-cron.php:440
+msgid "Entry updated successfully."
+msgstr "عملیات ویرایش با موفقیت انجام شد."
+
+#: include/class-cron.php:457 include/class-stock-log.php:335
+msgid "Database successfully re-created and got fixed."
+msgstr "پایگاه داده با موفقیت ساخته/تعمیر شد."
+
+#: include/class-cron.php:469 include/class-stock-log.php:346
+msgid "Database cleared successfully."
+msgstr "پایگاه داده با موفقیت پاک شد."
+
+#: include/class-cron.php:471 include/class-stock-log.php:348
+msgid "Error clearing database!"
+msgstr "خطایی در پاکسازی پایگاه داده رخ داد!"
+
+#: include/class-cron.php:486 include/class-stock-log.php:363
+msgid "Item successfully deleted"
+msgstr "مورد با موفقیت حذف شد"
+
+#: include/class-cron.php:488 include/class-stock-log.php:365
+msgid "Could not remove item from database."
+msgstr "متاسفانه نمیتوان مورد را از پایگاه داده حذف کرد."
+
+#: include/class-cron.php:502 include/class-stock-log.php:379
+msgid "Items removed successfully."
+msgstr "مورد با موفقیت حذف شد."
+
+#: include/class-cron.php:504 include/class-stock-log.php:381
+msgid "There was a problem with your request."
+msgstr "متاسفانه خطایی در اجرای درخواست شما رخ داد."
+
+#: include/class-cron.php:509 include/class-cron.php:514
+#: include/class-stock-log.php:386 include/class-stock-log.php:391
+msgid "Incorrect Data Supplied."
+msgstr "داده ی ناقص وارد شده است."
+
+#: include/class-cron.php:527 include/class-stock-log.php:404
+msgctxt "translate-js"
+msgid "Select image file"
+msgstr "انتخاب فایل تصویر"
+
+#: include/class-cron.php:528 include/class-stock-log.php:405
+msgctxt "translate-js"
+msgid "Use this image"
+msgstr "استفاده از این عکس"
+
+#: include/class-cron.php:529 include/class-stock-log.php:406
+msgctxt "translate-js"
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: include/class-cron.php:530 include/class-stock-log.php:407
+msgctxt "translate-js"
+msgid "Current preview"
+msgstr "پیش نمایش فعلی"
+
+#: include/class-cron.php:531 include/class-stock-log.php:408
+msgctxt "translate-js"
+msgid "Select image"
+msgstr "انتخاب عکس"
+
+#: include/class-cron.php:532 include/class-stock-log.php:409
+msgctxt "js-string"
+msgid "Submit"
+msgstr "ثبت"
+
+#: include/class-cron.php:533 include/class-stock-log.php:410
+msgctxt "js-string"
+msgid "Today"
+msgstr "امروز"
+
+#: include/class-cron.php:534 include/class-stock-log.php:411
+msgctxt "translate-js"
+msgid "Error"
+msgstr "خطا"
+
+#: include/class-cron.php:535 include/class-stock-log.php:412
+msgctxt "translate-js"
+msgid "Canceled"
+msgstr "لغو شد"
+
+#: include/class-cron.php:536 include/class-stock-log.php:413
+msgctxt "translate-js"
+msgid "Confirm"
+msgstr "تایید"
+
+#: include/class-cron.php:537 include/class-stock-log.php:414
+msgctxt "translate-js"
+msgid "Success"
+msgstr "عملیات موفق"
+
+#: include/class-cron.php:538 include/class-stock-log.php:415
+msgctxt "translate-js"
+msgid "Submit"
+msgstr "ثبت"
+
+#: include/class-cron.php:539 include/class-stock-log.php:416
+msgctxt "translate-js"
+msgid "Okay"
+msgstr "باشه"
+
+#: include/class-cron.php:540 include/class-stock-log.php:417
+msgctxt "translate-js"
+msgid "Yes"
+msgstr "بله"
+
+#: include/class-cron.php:541 include/class-stock-log.php:418
+msgctxt "translate-js"
+msgid "No"
+msgstr "خیر"
+
+#: include/class-cron.php:542 include/class-stock-log.php:419
+msgctxt "translate-js"
+msgid "Cancel"
+msgstr "انصراف"
+
+#: include/class-cron.php:543 include/class-stock-log.php:420
+msgctxt "translate-js"
+msgid "Edit Entry"
+msgstr "ویرایش مورد"
+
+#: include/class-cron.php:544 include/class-stock-log.php:421
+msgctxt "translate-js"
+msgid "Successfully copied to clipboard!"
+msgstr "با موفقیت به کلیپبرد کپی شد!"
+
+#: include/class-cron.php:545 include/class-stock-log.php:422
+msgctxt "translate-js"
+msgid "No Selection!"
+msgstr "چیزی انتخاب نشده!"
+
+#: include/class-cron.php:546 include/class-stock-log.php:423
+msgctxt "translate-js"
+msgid "Send to all"
+msgstr "ارسال به لیست"
+
+#: include/class-cron.php:547 include/class-stock-log.php:424
+msgctxt "translate-js"
+msgid "Close"
+msgstr "بستن"
+
+#: include/class-cron.php:548 include/class-stock-log.php:425
+msgctxt "translate-js"
+msgid "Reload page"
+msgstr "نوسازی صفحه"
+
+#: include/class-cron.php:549 include/class-stock-log.php:426
+msgctxt "translate-js"
+msgid "Delete Confirmation"
+msgstr "تایید حذف"
+
+#: include/class-cron.php:550 include/class-stock-log.php:427
+msgctxt "translate-js"
+msgid ""
+"Unfortunately we encountered a technical problem, for more information check "
+"console"
+msgstr ""
+"متاسفانه با یک مشکل فنی مواجه شدیم، برای اطلاعات بیشتر کنسول را بررسی کنید"
+
+#: include/class-cron.php:551 include/class-stock-log.php:428
+#, php-format
+msgctxt "translate-js"
+msgid ""
+"Are you sure you want to delete items <u><strong>ID #%s</strong></u> ? "
+"<red>THIS CANNOT BE UNDONE."
+msgstr ""
+"آیا مطمئن هستید میخواهید مورد <u><strong>ID #%s</strong></u> را حذف کنید؟‫"
+"<red>این عملیات قابل بازگشت نیست."
+
+#: include/class-cron.php:552 include/class-stock-log.php:429
+msgctxt "translate-js"
+msgid ""
+"Are you sure you want to clear all data from database? <red>THIS CANNOT BE "
+"UNDONE."
+msgstr ""
+"آیا مطمئن هستید میخواهید تمامی رکوردها و داده های دیتابیس را حذف کنید؟"
+"<red>این عملیات قابل بازگشت نیست."
+
+#: include/class-cron.php:553 include/class-stock-log.php:430
+msgctxt "translate-js"
+msgid ""
+"Are you sure you want to clear all saved settings and revert to default? "
+"<red>THIS CANNOT BE UNDONE."
+msgstr ""
+"آیا مطمئن هستید میخواهید تمامی تنظیمات را پاک کرده و به پیشفرض تغییر دهید؟"
+"<red>این عملیات قابل بازگشت نیست."
+
+#: include/class-cron.php:554 include/class-stock-log.php:431
+msgctxt "translate-js"
+msgid "Clear Database"
+msgstr "پاکسازی دیتابیس"
+
+#: include/class-cron.php:555 include/class-stock-log.php:432
+msgctxt "translate-js"
+msgid "Reset Settings"
+msgstr "بازنشانی تنظیمات"
+
+#: include/class-cron.php:556 include/class-stock-log.php:433
+msgctxt "translate-js"
+msgid "Fix & Re-Create Database"
+msgstr "تعمیر دیتابیس"
+
+#: include/class-cron.php:557 include/class-stock-log.php:434
+msgctxt "translate-js"
+msgid "Are you sure you want to re-create and fix database?"
+msgstr "آیا مطمئن هستید میخواهید دیتابیس را تعمیر و بازسازی کنید؟"
+
+#: include/class-cron.php:558 include/class-stock-log.php:435
+msgctxt "translate-js"
+msgid "Select / Upload image"
+msgstr "انتخاب یا آپلود عکس"
+
+#: include/class-cron.php:560 include/class-stock-log.php:437
+#, php-format
+msgctxt "translate-js"
+msgid "Logs Exported from server: %s"
+msgstr "‫Logs Exported from server: %s"
+
+#: include/class-cron.php:562 include/class-stock-log.php:439
+#, php-format
+msgctxt "translate-js"
+msgid "%s Export"
+msgstr "استخراج %s"
+
+#: include/class-cron.php:563 include/class-stock-log.php:440
+#, php-format
+msgctxt "translate-js"
+msgid "Exported at %s %s"
+msgstr "استخراج در %s %s"
+
+#: include/class-cron.php:564 include/class-stock-log.php:441
+#, php-format
+msgctxt "translate-js"
+msgid "Exported via %s at %s %s"
+msgstr "استخراج توسط %s در %s %s"
+
+#: include/class-cron.php:566 include/class-stock-log.php:443
+msgctxt "data-table"
+msgid "Filter ..."
+msgstr "فیلتر ..."
+
+#: include/class-cron.php:568 include/class-stock-log.php:445
+msgctxt "data-table"
+msgid "No data available in table"
+msgstr "هیچ داده ای در جدول وجود ندارد"
+
+#: include/class-cron.php:569 include/class-stock-log.php:446
+msgctxt "data-table"
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "نمایش _START_ تا _END_ از _TOTAL_ رکورد"
+
+#: include/class-cron.php:570 include/class-stock-log.php:447
+msgctxt "data-table"
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "نمایش 0 تا 0 از 0 رکورد"
+
+#: include/class-cron.php:571 include/class-stock-log.php:448
+msgctxt "data-table"
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(فیلتر شده از _MAX_ رکورد)"
+
+#: include/class-cron.php:572 include/class-stock-log.php:449
+msgctxt "data-table"
+msgid "Show _MENU_ entries"
+msgstr "نمایش _MENU_ رکورد"
+
+#: include/class-cron.php:573 include/class-stock-log.php:450
+msgctxt "data-table"
+msgid "Loading..."
+msgstr "در حال بارگزاری ..."
+
+#: include/class-cron.php:574 include/class-stock-log.php:451
+msgctxt "data-table"
+msgid "Processing..."
+msgstr "در حال پردازش ..."
+
+#: include/class-cron.php:575 include/class-stock-log.php:452
+msgctxt "data-table"
+msgid "Search:"
+msgstr "جستجو:"
+
+#: include/class-cron.php:576 include/class-stock-log.php:453
+msgctxt "data-table"
+msgid "No matching records found"
+msgstr "رکوردی با این مشخصات پیدا نشد"
+
+#: include/class-cron.php:577 include/class-stock-log.php:454
+msgctxt "data-table"
+msgid "First"
+msgstr "ابتدا"
+
+#: include/class-cron.php:578 include/class-stock-log.php:455
+msgctxt "data-table"
+msgid "Last"
+msgstr "انتها"
+
+#: include/class-cron.php:579 include/class-stock-log.php:456
+msgctxt "data-table"
+msgid "Next"
+msgstr "بعدی"
+
+#: include/class-cron.php:580 include/class-stock-log.php:457
+msgctxt "data-table"
+msgid "Previous"
+msgstr "قبلی"
+
+#: include/class-cron.php:581 include/class-stock-log.php:458
+msgctxt "data-table"
+msgid ": activate to sort column ascending"
+msgstr ": فعال سازی نمایش به صورت صعودی"
+
+#: include/class-cron.php:582 include/class-stock-log.php:459
+msgctxt "data-table"
+msgid ": activate to sort column descending"
+msgstr ": فعال سازی نمایش به صورت نزولی"
+
+#: include/class-cron.php:583 include/class-stock-log.php:460
+msgctxt "data-table"
+msgid "Copy to clipboard"
+msgstr "کپی به کلیپ‌بورد"
+
+#: include/class-cron.php:584 include/class-stock-log.php:461
+msgctxt "data-table"
+msgid "Print"
+msgstr "چاپ"
+
+#: include/class-cron.php:585 include/class-stock-log.php:462
+msgctxt "data-table"
+msgid "Column visibility"
+msgstr "نمایش ستون"
+
+#: include/class-cron.php:586 include/class-stock-log.php:463
+msgctxt "data-table"
+msgid "Export CSV"
+msgstr "برون بری CSV"
+
+#: include/class-cron.php:587 include/class-stock-log.php:464
+msgctxt "data-table"
+msgid "Export Excel"
+msgstr "استخراج اکسل"
+
+#: include/class-cron.php:588 include/class-stock-log.php:465
+msgctxt "data-table"
+msgid "Export PDF"
+msgstr "استخراج PDF"
+
+#: include/class-cron.php:603 include/class-stock-log.php:480
+msgid "ID"
+msgstr "شناسه"
+
+#: include/class-cron.php:611 include/class-stock-log.php:488
+msgid "Previous"
+msgstr "قبلی"
+
+#: include/class-cron.php:612 include/class-stock-log.php:489
+msgid "Next"
+msgstr "بعدی"
+
+#: include/class-cron.php:614 include/class-stock-log.php:491
+msgid "Database is empty!"
+msgstr "دیتابیس خالی است!"
+
+#: include/class-cron.php:614 include/class-stock-log.php:491
+msgid ""
+"It seems there's nothing to show. please check your log setting and use the "
+"app to generate some logs."
+msgstr "به نظر میرسد چیزی برای نمایش یافت نشد."
+
+#: include/class-cron.php:640 include/class-stock-log.php:509
+msgid "Active Filters:"
+msgstr "فیلتر های فعال:"
+
+#: include/class-cron.php:678 include/class-stock-log.php:547
+msgid "Items per page"
+msgstr "تعداد در صفحه"
+
+#: include/class-cron.php:679 include/class-cron.php:680
+#: include/class-cron.php:681 include/class-cron.php:682
+#: include/class-cron.php:683 include/class-cron.php:684
+#: include/class-cron.php:685 include/class-cron.php:686
+#: include/class-cron.php:687 include/class-cron.php:688
+#: include/class-cron.php:689 include/class-cron.php:690
+#: include/class-stock-log.php:548 include/class-stock-log.php:549
+#: include/class-stock-log.php:550 include/class-stock-log.php:551
+#: include/class-stock-log.php:552 include/class-stock-log.php:553
+#: include/class-stock-log.php:554 include/class-stock-log.php:555
+#: include/class-stock-log.php:556 include/class-stock-log.php:557
+#: include/class-stock-log.php:558 include/class-stock-log.php:559
+#, php-format
+msgctxt "items_per_page"
+msgid "Show %s items per page"
+msgstr "نمایش %s مورد در صفحه"
+
+#: include/class-cron.php:692 include/class-stock-log.php:561
+#, php-format
+msgid "Show all %s items at once"
+msgstr "نمایش تمامی %s مورد"
+
+#: include/class-cron.php:692 include/class-stock-log.php:561
+msgid "Show the only found data"
+msgstr "نمایش تنها مورد یافت شده"
+
+#: include/class-cron.php:697 include/class-stock-log.php:566
+#, php-format
+msgid ", Search result: %d"
+msgid_plural ", Search results: %d"
+msgstr[0] "، نتایج جستجو: %d"
+msgstr[1] "، نتایج جستجو: %d"
+
+#: include/class-cron.php:704 include/class-stock-log.php:573
+msgid "Advanced Search in Database"
+msgstr "جستجوی پیشرفته"
+
+#: include/class-cron.php:710 include/class-stock-log.php:579
+msgid "Exact Match: "
+msgstr "تطابق کامل: "
+
+#: include/class-cron.php:711 include/class-stock-log.php:580
+msgid "Relation: "
+msgstr "نوع ارتباط: "
+
+#: include/class-cron.php:714 include/class-stock-log.php:583
+msgid "Search now"
+msgstr "جستجو کن"
+
+#: include/class-cron.php:715 include/class-stock-log.php:584
+msgid "Clear search"
+msgstr "پاک کردن جستجو"
+
+#: include/class-cron.php:766 include/class-stock-log.php:633
+#, php-format
+msgid "Only %s Record indexed"
+msgid_plural "%s Records indexed"
+msgstr[0] "تعداد %s رکورد در دیتابیس یافت شد"
+msgstr[1] "تنها %s رکورد در دیتابیس یافت شد"
+
+#: include/class-stock-log.php:163
+msgid "WooCommerce Stock History"
+msgstr "تاریخچه موجودی انبار ووکامرس"
+
+#: include/class-stock-log.php:182 include/class-stock-log.php:194
+msgctxt "db-column"
+msgid "Extras"
+msgstr "جزئیات"
+
+#: include/class-stock-log.php:183 include/class-stock-log.php:192
+msgctxt "db-column"
+msgid "Referer Hook"
+msgstr "هوک ریفرر"
+
+#: include/wp-rocket-cache-dynamic-cookie.php:91
+msgid "Cache"
+msgstr "کش"
+
+#. Plugin Name of the plugin/theme
+#: mnstudio-pro.php:140 mnstudio-pro.php:185
+msgid "MNStudio Pro"
+msgstr "ام ان استودیو پرو"
+
+#: mnstudio-pro.php:185
+msgid "MNStudio Pro - Configuration"
+msgstr "ام ان استودیو پرو - تنظیمات"
+
+#: mnstudio-pro.php:186
+msgid "MNStudio Pro - CronJob List"
+msgstr "ام ان استودیو پرو - لیست کران جاب"
+
+#: mnstudio-pro.php:186
+msgid "New CronJob"
+msgstr "کران جاب ها"
+
+#: mnstudio-pro.php:187
+msgid "MNStudio Pro - Stock History"
+msgstr "ام ان استودیو پرو - تاریخچه موجودی انبار"
+
+#: mnstudio-pro.php:187 mnstudio-pro.php:1715
+msgid "Stock History"
+msgstr "تاریخچه موجودی انبار"
+
+#: mnstudio-pro.php:462
+msgctxt "sms-error"
+msgid "SMS Provider credentials is not filled completely."
+msgstr "اطلاعات سامانه پیامک به درستی وارد نشده است."
+
+#: mnstudio-pro.php:1333 mnstudio-pro.php:1341
+msgid "Online Term Level"
+msgstr "ترم آنلاین"
+
+#: mnstudio-pro.php:1334 mnstudio-pro.php:1341
+msgid "Beginner"
+msgstr "مبتدی"
+
+#. translators: %s: taxes
+#: mnstudio-pro.php:1644
+#, php-format
+msgid "(includes %s)"
+msgstr "مشمول %s مالیات"
+
+#: mnstudio-pro.php:1689
+#, php-format
+msgctxt "footer-copyright"
+msgid "%s — Version %s"
+msgstr "%s — نسخه %s"
+
+#: mnstudio-pro.php:1701
+msgid "MNStudio Configuration"
+msgstr "تنظیمات ام ان استودیو"
+
+#: mnstudio-pro.php:1704
+msgctxt "setting-general"
+msgid "Settings saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: mnstudio-pro.php:1710
+msgid "General"
+msgstr "عمومی"
+
+#: mnstudio-pro.php:1711 mnstudio-pro.php:1910
+msgid "Translate"
+msgstr "ترجمه"
+
+#: mnstudio-pro.php:1712
+msgid "String Replace"
+msgstr "استرینگ ریپلیس"
+
+#: mnstudio-pro.php:1713
+msgid "Modules"
+msgstr "ماژول ها"
+
+#: mnstudio-pro.php:1714
+msgid "CronJob"
+msgstr "کران جاب"
+
+#: mnstudio-pro.php:1724
+msgid "General Configuration"
+msgstr "تنظیمات کلی"
+
+#: mnstudio-pro.php:1731
+msgid "Active Debug Mode"
+msgstr "فعالسازی حالت دیباگ"
+
+#: mnstudio-pro.php:1732
+msgid "Currency-based Cache"
+msgstr "کش بر اساس واحد پولی"
+
+#: mnstudio-pro.php:1733
+msgid "Favicon"
+msgstr "فاوایکون"
+
+#: mnstudio-pro.php:1734
+msgid "Diet Addon Label"
+msgstr "متن اددان رژیم"
+
+#: mnstudio-pro.php:1735
+msgid "Diet Product ID"
+msgstr "ایدی محصول اددان رژیم"
+
+#: mnstudio-pro.php:1736
+msgid "Pregnancy Addon Label"
+msgstr "متن اددان مشاوره بارداری"
+
+#: mnstudio-pro.php:1737
+msgid "Pregnancy Product ID"
+msgstr "ایدی محصول مشاوره بارداری"
+
+#: mnstudio-pro.php:1738
+msgid "Secure-link Base"
+msgstr "بیس سکیور لینک"
+
+#: mnstudio-pro.php:1739
+msgid "Secure-link Secret"
+msgstr "سکرت هش سیکور لینک"
+
+#: mnstudio-pro.php:1740
+msgid "Telegram URL"
+msgstr "ادرس تلگرام"
+
+#: mnstudio-pro.php:1741
+msgid "Telegram Title"
+msgstr "متن هاور تلگرام"
+
+#: mnstudio-pro.php:1742
+msgid "Paypal WC-Gateway"
+msgstr "ایدی درگاه پی پال"
+
+#: mnstudio-pro.php:1743
+msgid "Rest-pass Email Subject"
+msgstr "ایمیل تغییر رمز - موضوع"
+
+#: mnstudio-pro.php:1743
+msgid "Leave empty to use default"
+msgstr "خالی رها کنید تا از پیشفرض وردپرس استفاده شود"
+
+#: mnstudio-pro.php:1744
+msgid "Rest-pass Email Body"
+msgstr "ایمیل تغییر رمز - متن"
+
+#: mnstudio-pro.php:1744
+msgid "Leave empty to use default, use following macros: "
+msgstr ""
+"خالی رها کنید تا از پیشفرض وردپرس استفاده شود. میتوانید از ماکروهای زیر "
+"استفاده کنید: "
+
+#: mnstudio-pro.php:1755
+msgid "SMS Queue Interval"
+msgstr "فاصله صف پیامک/ایمیل"
+
+#: mnstudio-pro.php:1755
+msgid ""
+"Set Queue Interval in Minutes to check unsent Email/SMS from list and send x-"
+"items per interval"
+msgstr ""
+"برای بررسی ایمیل/پیامک ارسال نشده از لیست و ارسال x-اقلام در هر بازه، فاصله "
+"صف را در دقیقه تنظیم کنید"
+
+#: mnstudio-pro.php:1756
+msgid "SMS Queue Items per Interval"
+msgstr "تعداد ایتم در هر چرخه اجرایی"
+
+#: mnstudio-pro.php:1756
+msgid ""
+"How many unsent Email/SMS should be sent in single Interval cycle.<br>It is "
+"recomonded to send less than 6 items per minutes"
+msgstr ""
+"چه تعداد ایمیل/اس ام اس ارسال نشده باید در یک چرخه بازه زمانی ارسال شود."
+"<br>توصیه می شود کمتر از 6 مورد در دقیقه ارسال شود"
+
+#: mnstudio-pro.php:1757
+msgid "Global Discount"
+msgstr "اعمال تخفیف کلی"
+
+#: mnstudio-pro.php:1757
+msgid ""
+"Add a globally discount applied on all products (within category below), "
+"leave empty to disable."
+msgstr ""
+"درصد تخفیف کلی به محصولات در دسته بندی های زیر اعمال میشود (محاسبه از روی "
+"قیمت اصلی محصول نه قیمت فروش ویژه) و در تسویه حساب اعمال میشود."
+
+#: mnstudio-pro.php:1758
+msgid "Global Discount Category"
+msgstr "دسته بندی‌های تخفیف"
+
+#: mnstudio-pro.php:1758
+msgid ""
+"Enter category slug to apply global discount on it. Use comma to separate "
+"multiple items."
+msgstr ""
+"لیست اسلاگ دسته بندی‌هایی که میخواهید تخفیف کلی به آنها اعمال شود با کاما جدا "
+"کنید."
+
+#: mnstudio-pro.php:1767
+msgid "IPPanel Configuration"
+msgstr "تنظیمات ای پی پنل IPPanel"
+
+#: mnstudio-pro.php:1776
+msgid "Server"
+msgstr "نشانی سرور"
+
+#: mnstudio-pro.php:1782
+msgid "Username"
+msgstr "نام کاربری"
+
+#: mnstudio-pro.php:1787
+msgid "Password"
+msgstr "رمز عبور"
+
+#: mnstudio-pro.php:1792
+msgid "Sender number"
+msgstr "سر شماره ارسال"
+
+#: mnstudio-pro.php:1809
+msgid "Modules Configuration"
+msgstr "تنظیمات ماژول ها"
+
+#: mnstudio-pro.php:1909 mnstudio-pro.php:1956
+msgid "Original"
+msgstr "اورجینال"
+
+#: mnstudio-pro.php:1911
+msgid "TextDomain"
+msgstr "تکست دامین"
+
+#: mnstudio-pro.php:1912 mnstudio-pro.php:1958
+msgid "Options"
+msgstr "فیلدهای رادیویی"
+
+#: mnstudio-pro.php:1913 mnstudio-pro.php:1959
+msgid "Action"
+msgstr "عملیات"
+
+#: mnstudio-pro.php:1918 mnstudio-pro.php:1964
+msgid "Original text ..."
+msgstr "متن اصلی …"
+
+#: mnstudio-pro.php:1919 mnstudio-pro.php:1965
+msgid "Translate to ..."
+msgstr "ترجمه به …"
+
+#: mnstudio-pro.php:1920
+msgid "Text Domain (Optional)"
+msgstr "تکست دامین (اختیاری)"
+
+#: mnstudio-pro.php:1922
+msgid "Partial Replace?"
+msgstr "بخشی از متن؟"
+
+#: mnstudio-pro.php:1923
+msgid "Use RegEx?"
+msgstr "استفاده از ریجکس؟"
+
+#: mnstudio-pro.php:1924
+msgid "Translated Origin?"
+msgstr "قبلا ترجمه شده؟"
+
+#: mnstudio-pro.php:1927 mnstudio-pro.php:1971
+msgid "Delete Row"
+msgstr "حذف ردیف"
+
+#: mnstudio-pro.php:1933 mnstudio-pro.php:1977
+msgid "Add New Row"
+msgstr "افزودن ردیف جدید"
+
+#: mnstudio-pro.php:1939
+msgid "Migrate Translation"
+msgstr "انتقال دیتای ترجمه"
+
+#: mnstudio-pro.php:1944
+msgid "Translation Data"
+msgstr "دیتای ترجمه"
+
+#: mnstudio-pro.php:1957
+msgid "Replace"
+msgstr "ریپلیس"
+
+#: mnstudio-pro.php:1967
+msgid "Green: Replace in Output Buffer | Red: Replace in Content Only"
+msgstr "قرمز: ریپلیس در محتوا / سبز: ریپلیس در تمامی قسمت ها"
+
+#: mnstudio-pro.php:1968
+msgid "Active"
+msgstr "فعال"
+
+#: mnstudio-pro.php:1983
+msgid "Migrate String Replace"
+msgstr "انتقال دیتای ریپلیس استرینگ"
+
+#: mnstudio-pro.php:1988
+msgid "String Replace Data"
+msgstr "دیتای ریپلیس متن"
+
+#: mnstudio-pro.php:2100
+msgid "Save setting"
+msgstr "ذخیره تنظیمات"
+
+#: mnstudio-pro.php:2146
+#, php-format
+msgid "ID #%s [deleted-user]"
+msgstr "کاربر حذف شده شناسه #%s"
+
+#: mnstudio-pro.php:2244
+msgid "This product is currently out of stock and unavailable."
+msgstr "این محصول در حال حاضر موجود نیست و در دسترس نمی باشد."
+
+#: mnstudio-pro.php:2898 mnstudio-pro.php:2977
+msgid "Scheduled Notifications"
+msgstr "نوتیفیکیشن زمان‎بندی شده"
+
+#: mnstudio-pro.php:2902 mnstudio-pro.php:2982
+msgid "The setting will be applied to Orders placed from now afterward"
+msgstr ""
+"این تنظیمات پس از ذخیره سازی روی سفارشاتی که از آلان به بعد ثبت میشوند اعمال "
+"میشود"
+
+#: mnstudio-pro.php:2909 mnstudio-pro.php:2992
+msgid "Notification 1 Date"
+msgstr "زمان نوتیفیکیشن 1"
+
+#: mnstudio-pro.php:2913 mnstudio-pro.php:2943 mnstudio-pro.php:2998
+#: mnstudio-pro.php:3033
+msgid ""
+"Date notification will be sent, days after the order placed. Use 0 to Disable."
+msgstr ""
+"تعداد روزهایی که بعد از ثبت سفارش این نوتیفیکیشن ارسال میشود، برای "
+"غیرفعالسازی 0 را وارد کنید."
+
+#: mnstudio-pro.php:2918 mnstudio-pro.php:2948 mnstudio-pro.php:3002
+#: mnstudio-pro.php:3037
+msgid "Email Subject"
+msgstr "موضوع ایمیل"
+
+#: mnstudio-pro.php:2923 mnstudio-pro.php:2953 mnstudio-pro.php:3008
+#: mnstudio-pro.php:3043
+msgid "Notification Email"
+msgstr "نوتیفیکیشن ایمیل"
+
+#: mnstudio-pro.php:2925 mnstudio-pro.php:2956 mnstudio-pro.php:3012
+#: mnstudio-pro.php:3047
+msgid ""
+"Empty content to disable this kind of notification. Shortcodes are supported."
+msgstr ""
+"محتوا را خالی رها کنید تا این نوع نوتیفیکیشن ارسال نشود. شورتکد ها پشتیبانی "
+"میشود."
+
+#: mnstudio-pro.php:2930 mnstudio-pro.php:2960 mnstudio-pro.php:3016
+#: mnstudio-pro.php:3051
+msgid "Notification SMS"
+msgstr "نوتیفیکیشن پیامک"
+
+#: mnstudio-pro.php:2932 mnstudio-pro.php:2962 mnstudio-pro.php:3020
+#: mnstudio-pro.php:3055
+msgid ""
+"Empty content to disable this kind of notification. SMS Macros are supported."
+msgstr ""
+"محتوا را خالی رها کنید تا این نوع نوتیفیکیشن ارسال نشود. شورتکد های پیامک "
+"پشتیبانی میشود."
+
+#: mnstudio-pro.php:2939 mnstudio-pro.php:3027
+msgid "Notification 2 Date"
+msgstr "زمان نوتیفیکیشن 2"
+
+#: mnstudio-pro.php:3657 mnstudio-pro.php:3682
+msgid "Dollar Regular Price"
+msgstr "قیمت عادی دلاری"
+
+#: mnstudio-pro.php:3665 mnstudio-pro.php:3695
+msgid "Dollar Sale Price"
+msgstr "قیمت فروش ویژه دلاری"
+
+#: mnstudio-pro.php:3710
+msgid "Dollar Discount Price"
+msgstr "تخفیف مقدار ثابت دلاری"
+
+#: mnstudio-pro.php:4093 mnstudio-pro.php:4113 mnstudio-pro.php:4157
+#, php-format
+msgctxt "setting-page"
+msgid "Enter %s"
+msgstr "%s را وارد کنید"
+
+#: mnstudio-pro.php:4133
+#, php-format
+msgctxt "setting-page"
+msgid "Choose %s"
+msgstr "%s را انتخاب کنید"
+
+#. Plugin URI of the plugin/theme
+msgid "https://amirhp.com/landing"
+msgstr "https://amirhp.com/landing"
+
+#. Description of the plugin/theme
+msgid ""
+"MNStudio Pro adds custom functionalities and provides enhanced new features "
+"to the site"
+msgstr ""
+"MNStudio Pro adds custom functionalities and provides enhanced new features "
+"to the site"
+
+#. Author of the plugin/theme
+msgid "BlackSwan"
+msgstr "BlackSwan"
+
+#. Author URI of the plugin/theme
+msgid "https://blackswandev.com/"
+msgstr "https://blackswandev.com/"
+
+#~ msgctxt "db-column"
+#~ msgid "Details"
+#~ msgstr "جزئیات"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "_MNStudio PRO_"
+#~ msgstr "_MNStudio PRO_"

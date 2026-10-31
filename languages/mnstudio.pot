@@ -1,0 +1,1029 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _MNStudio PRO_\n"
+"POT-Creation-Date: 2025-04-26 16:09+0330\n"
+"PO-Revision-Date: 2025-01-06 01:36\n"
+"Last-Translator: Amirhossein Hosseinpour <its@amirhp.com>\n"
+"Language-Team: Amirhossein Hosseinpour <its@amirhp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: mnstudio-pro.php\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: include/class-cron.php:36
+msgid "Migrate CronJobs"
+msgstr ""
+
+#: include/class-cron.php:221
+msgid "No eligible Legacy-Cronjob found to migrate, all good."
+msgstr ""
+
+#: include/class-cron.php:230
+msgid "Scheduled CronJobs"
+msgstr ""
+
+#: include/class-cron.php:237 include/class-stock-log.php:166
+msgctxt "setting-general"
+msgid "Advanced Search"
+msgstr ""
+
+#: include/class-cron.php:238 include/class-stock-log.php:167
+msgctxt "setting-general"
+msgid "Select All"
+msgstr ""
+
+#: include/class-cron.php:239 include/class-stock-log.php:168
+msgctxt "setting-general"
+msgid "Fix Database Structure"
+msgstr ""
+
+#: include/class-cron.php:240 include/class-stock-log.php:169
+msgctxt "setting-general"
+msgid "Delete Selected"
+msgstr ""
+
+#: include/class-cron.php:241 include/class-stock-log.php:170
+msgctxt "setting-general"
+msgid "Empty Database"
+msgstr ""
+
+#: include/class-cron.php:242
+msgctxt "setting-general"
+msgid "Run Cronjob Processor"
+msgstr ""
+
+#: include/class-cron.php:243
+msgctxt "setting-general"
+msgid "Migrate Legacy-Cronjob"
+msgstr ""
+
+#: include/class-cron.php:244
+msgctxt "setting-general"
+msgid "Toggle Success"
+msgstr ""
+
+#: include/class-cron.php:251 include/class-stock-log.php:177
+msgctxt "db-column"
+msgid "Mark/ID"
+msgstr ""
+
+#: include/class-cron.php:252 include/class-cron.php:265
+#: include/class-stock-log.php:178 include/class-stock-log.php:188
+msgctxt "db-column"
+msgid "Date Created"
+msgstr ""
+
+#: include/class-cron.php:253 include/class-cron.php:266
+msgctxt "db-column"
+msgid "Date Sent"
+msgstr ""
+
+#: include/class-cron.php:254 include/class-cron.php:267
+msgctxt "db-column"
+msgid "Scheduled for"
+msgstr ""
+
+#: include/class-cron.php:255 include/class-cron.php:268
+#: include/class-stock-log.php:179 include/class-stock-log.php:189
+msgctxt "db-column"
+msgid "Order"
+msgstr ""
+
+#: include/class-cron.php:256 include/class-cron.php:269
+#: include/class-stock-log.php:180 include/class-stock-log.php:190
+msgctxt "db-column"
+msgid "Product"
+msgstr ""
+
+#: include/class-cron.php:257 include/class-stock-log.php:181
+#: include/class-stock-log.php:191
+msgctxt "db-column"
+msgid "User"
+msgstr ""
+
+#: include/class-cron.php:258 include/class-cron.php:270
+msgctxt "db-column"
+msgid "Mobile"
+msgstr ""
+
+#: include/class-cron.php:259 include/class-cron.php:275
+msgctxt "db-column"
+msgid "Status"
+msgstr ""
+
+#: include/class-cron.php:260 include/class-cron.php:276
+msgctxt "db-column"
+msgid "Refer"
+msgstr ""
+
+#: include/class-cron.php:261 include/class-cron.php:278
+#: include/class-stock-log.php:184 include/class-stock-log.php:193
+msgctxt "db-column"
+msgid "Result"
+msgstr ""
+
+#: include/class-cron.php:262 include/class-stock-log.php:185
+msgctxt "db-column"
+msgid "Action"
+msgstr ""
+
+#: include/class-cron.php:271
+msgctxt "db-column"
+msgid "Type"
+msgstr ""
+
+#: include/class-cron.php:272
+msgctxt "db-column"
+msgid "SMS Content"
+msgstr ""
+
+#: include/class-cron.php:273
+msgctxt "db-column"
+msgid "Email Body"
+msgstr ""
+
+#: include/class-cron.php:274
+msgctxt "db-column"
+msgid "Email Subject"
+msgstr ""
+
+#: include/class-cron.php:277 include/class-cron.php:292
+#: include/class-stock-log.php:195 include/class-stock-log.php:211
+msgctxt "db-column"
+msgid "Technical Info"
+msgstr ""
+
+#: include/class-cron.php:282 include/class-stock-log.php:199
+msgid "Not Specified!"
+msgstr ""
+
+#: include/class-cron.php:292 include/class-stock-log.php:211
+#: include/class-stock-log.php:277
+msgid "View"
+msgstr ""
+
+#: include/class-cron.php:293
+msgid "Retry entry"
+msgstr ""
+
+#: include/class-cron.php:294 include/class-stock-log.php:212
+msgid "Delete entry"
+msgstr ""
+
+#: include/class-cron.php:409 include/class-cron.php:411
+#: include/class-cron.php:450 include/class-cron.php:452
+#: include/class-cron.php:463 include/class-cron.php:465
+#: include/class-cron.php:477 include/class-cron.php:480
+#: include/class-cron.php:482 include/class-cron.php:494
+#: include/class-cron.php:496 include/class-stock-log.php:341
+#: include/class-stock-log.php:343 include/class-stock-log.php:354
+#: include/class-stock-log.php:357 include/class-stock-log.php:359
+#: include/class-stock-log.php:371 include/class-stock-log.php:373
+msgid "An unknown error occurred."
+msgstr ""
+
+#: include/class-cron.php:414
+msgid "You should fill out all fields"
+msgstr ""
+
+#: include/class-cron.php:440
+msgid "Entry updated successfully."
+msgstr ""
+
+#: include/class-cron.php:457 include/class-stock-log.php:335
+msgid "Database successfully re-created and got fixed."
+msgstr ""
+
+#: include/class-cron.php:469 include/class-stock-log.php:346
+msgid "Database cleared successfully."
+msgstr ""
+
+#: include/class-cron.php:471 include/class-stock-log.php:348
+msgid "Error clearing database!"
+msgstr ""
+
+#: include/class-cron.php:486 include/class-stock-log.php:363
+msgid "Item successfully deleted"
+msgstr ""
+
+#: include/class-cron.php:488 include/class-stock-log.php:365
+msgid "Could not remove item from database."
+msgstr ""
+
+#: include/class-cron.php:502 include/class-stock-log.php:379
+msgid "Items removed successfully."
+msgstr ""
+
+#: include/class-cron.php:504 include/class-stock-log.php:381
+msgid "There was a problem with your request."
+msgstr ""
+
+#: include/class-cron.php:509 include/class-cron.php:514
+#: include/class-stock-log.php:386 include/class-stock-log.php:391
+msgid "Incorrect Data Supplied."
+msgstr ""
+
+#: include/class-cron.php:527 include/class-stock-log.php:404
+msgctxt "translate-js"
+msgid "Select image file"
+msgstr ""
+
+#: include/class-cron.php:528 include/class-stock-log.php:405
+msgctxt "translate-js"
+msgid "Use this image"
+msgstr ""
+
+#: include/class-cron.php:529 include/class-stock-log.php:406
+msgctxt "translate-js"
+msgid "Clear"
+msgstr ""
+
+#: include/class-cron.php:530 include/class-stock-log.php:407
+msgctxt "translate-js"
+msgid "Current preview"
+msgstr ""
+
+#: include/class-cron.php:531 include/class-stock-log.php:408
+msgctxt "translate-js"
+msgid "Select image"
+msgstr ""
+
+#: include/class-cron.php:532 include/class-stock-log.php:409
+msgctxt "js-string"
+msgid "Submit"
+msgstr ""
+
+#: include/class-cron.php:533 include/class-stock-log.php:410
+msgctxt "js-string"
+msgid "Today"
+msgstr ""
+
+#: include/class-cron.php:534 include/class-stock-log.php:411
+msgctxt "translate-js"
+msgid "Error"
+msgstr ""
+
+#: include/class-cron.php:535 include/class-stock-log.php:412
+msgctxt "translate-js"
+msgid "Canceled"
+msgstr ""
+
+#: include/class-cron.php:536 include/class-stock-log.php:413
+msgctxt "translate-js"
+msgid "Confirm"
+msgstr ""
+
+#: include/class-cron.php:537 include/class-stock-log.php:414
+msgctxt "translate-js"
+msgid "Success"
+msgstr ""
+
+#: include/class-cron.php:538 include/class-stock-log.php:415
+msgctxt "translate-js"
+msgid "Submit"
+msgstr ""
+
+#: include/class-cron.php:539 include/class-stock-log.php:416
+msgctxt "translate-js"
+msgid "Okay"
+msgstr ""
+
+#: include/class-cron.php:540 include/class-stock-log.php:417
+msgctxt "translate-js"
+msgid "Yes"
+msgstr ""
+
+#: include/class-cron.php:541 include/class-stock-log.php:418
+msgctxt "translate-js"
+msgid "No"
+msgstr ""
+
+#: include/class-cron.php:542 include/class-stock-log.php:419
+msgctxt "translate-js"
+msgid "Cancel"
+msgstr ""
+
+#: include/class-cron.php:543 include/class-stock-log.php:420
+msgctxt "translate-js"
+msgid "Edit Entry"
+msgstr ""
+
+#: include/class-cron.php:544 include/class-stock-log.php:421
+msgctxt "translate-js"
+msgid "Successfully copied to clipboard!"
+msgstr ""
+
+#: include/class-cron.php:545 include/class-stock-log.php:422
+msgctxt "translate-js"
+msgid "No Selection!"
+msgstr ""
+
+#: include/class-cron.php:546 include/class-stock-log.php:423
+msgctxt "translate-js"
+msgid "Send to all"
+msgstr ""
+
+#: include/class-cron.php:547 include/class-stock-log.php:424
+msgctxt "translate-js"
+msgid "Close"
+msgstr ""
+
+#: include/class-cron.php:548 include/class-stock-log.php:425
+msgctxt "translate-js"
+msgid "Reload page"
+msgstr ""
+
+#: include/class-cron.php:549 include/class-stock-log.php:426
+msgctxt "translate-js"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: include/class-cron.php:550 include/class-stock-log.php:427
+msgctxt "translate-js"
+msgid ""
+"Unfortunately we encountered a technical problem, for more information "
+"check console"
+msgstr ""
+
+#: include/class-cron.php:551 include/class-stock-log.php:428
+#, php-format
+msgctxt "translate-js"
+msgid ""
+"Are you sure you want to delete items <u><strong>ID #%s</strong></u> ? "
+"<red>THIS CANNOT BE UNDONE."
+msgstr ""
+
+#: include/class-cron.php:552 include/class-stock-log.php:429
+msgctxt "translate-js"
+msgid ""
+"Are you sure you want to clear all data from database? <red>THIS CANNOT BE "
+"UNDONE."
+msgstr ""
+
+#: include/class-cron.php:553 include/class-stock-log.php:430
+msgctxt "translate-js"
+msgid ""
+"Are you sure you want to clear all saved settings and revert to default? "
+"<red>THIS CANNOT BE UNDONE."
+msgstr ""
+
+#: include/class-cron.php:554 include/class-stock-log.php:431
+msgctxt "translate-js"
+msgid "Clear Database"
+msgstr ""
+
+#: include/class-cron.php:555 include/class-stock-log.php:432
+msgctxt "translate-js"
+msgid "Reset Settings"
+msgstr ""
+
+#: include/class-cron.php:556 include/class-stock-log.php:433
+msgctxt "translate-js"
+msgid "Fix & Re-Create Database"
+msgstr ""
+
+#: include/class-cron.php:557 include/class-stock-log.php:434
+msgctxt "translate-js"
+msgid "Are you sure you want to re-create and fix database?"
+msgstr ""
+
+#: include/class-cron.php:558 include/class-stock-log.php:435
+msgctxt "translate-js"
+msgid "Select / Upload image"
+msgstr ""
+
+#: include/class-cron.php:560 include/class-stock-log.php:437
+#, php-format
+msgctxt "translate-js"
+msgid "Logs Exported from server: %s"
+msgstr ""
+
+#: include/class-cron.php:562 include/class-stock-log.php:439
+#, php-format
+msgctxt "translate-js"
+msgid "%s Export"
+msgstr ""
+
+#: include/class-cron.php:563 include/class-stock-log.php:440
+#, php-format
+msgctxt "translate-js"
+msgid "Exported at %s %s"
+msgstr ""
+
+#: include/class-cron.php:564 include/class-stock-log.php:441
+#, php-format
+msgctxt "translate-js"
+msgid "Exported via %s at %s %s"
+msgstr ""
+
+#: include/class-cron.php:566 include/class-stock-log.php:443
+msgctxt "data-table"
+msgid "Filter ..."
+msgstr ""
+
+#: include/class-cron.php:568 include/class-stock-log.php:445
+msgctxt "data-table"
+msgid "No data available in table"
+msgstr ""
+
+#: include/class-cron.php:569 include/class-stock-log.php:446
+msgctxt "data-table"
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: include/class-cron.php:570 include/class-stock-log.php:447
+msgctxt "data-table"
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: include/class-cron.php:571 include/class-stock-log.php:448
+msgctxt "data-table"
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: include/class-cron.php:572 include/class-stock-log.php:449
+msgctxt "data-table"
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: include/class-cron.php:573 include/class-stock-log.php:450
+msgctxt "data-table"
+msgid "Loading..."
+msgstr ""
+
+#: include/class-cron.php:574 include/class-stock-log.php:451
+msgctxt "data-table"
+msgid "Processing..."
+msgstr ""
+
+#: include/class-cron.php:575 include/class-stock-log.php:452
+msgctxt "data-table"
+msgid "Search:"
+msgstr ""
+
+#: include/class-cron.php:576 include/class-stock-log.php:453
+msgctxt "data-table"
+msgid "No matching records found"
+msgstr ""
+
+#: include/class-cron.php:577 include/class-stock-log.php:454
+msgctxt "data-table"
+msgid "First"
+msgstr ""
+
+#: include/class-cron.php:578 include/class-stock-log.php:455
+msgctxt "data-table"
+msgid "Last"
+msgstr ""
+
+#: include/class-cron.php:579 include/class-stock-log.php:456
+msgctxt "data-table"
+msgid "Next"
+msgstr ""
+
+#: include/class-cron.php:580 include/class-stock-log.php:457
+msgctxt "data-table"
+msgid "Previous"
+msgstr ""
+
+#: include/class-cron.php:581 include/class-stock-log.php:458
+msgctxt "data-table"
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: include/class-cron.php:582 include/class-stock-log.php:459
+msgctxt "data-table"
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: include/class-cron.php:583 include/class-stock-log.php:460
+msgctxt "data-table"
+msgid "Copy to clipboard"
+msgstr ""
+
+#: include/class-cron.php:584 include/class-stock-log.php:461
+msgctxt "data-table"
+msgid "Print"
+msgstr ""
+
+#: include/class-cron.php:585 include/class-stock-log.php:462
+msgctxt "data-table"
+msgid "Column visibility"
+msgstr ""
+
+#: include/class-cron.php:586 include/class-stock-log.php:463
+msgctxt "data-table"
+msgid "Export CSV"
+msgstr ""
+
+#: include/class-cron.php:587 include/class-stock-log.php:464
+msgctxt "data-table"
+msgid "Export Excel"
+msgstr ""
+
+#: include/class-cron.php:588 include/class-stock-log.php:465
+msgctxt "data-table"
+msgid "Export PDF"
+msgstr ""
+
+#: include/class-cron.php:603 include/class-stock-log.php:480
+msgid "ID"
+msgstr ""
+
+#: include/class-cron.php:611 include/class-stock-log.php:488
+msgid "Previous"
+msgstr ""
+
+#: include/class-cron.php:612 include/class-stock-log.php:489
+msgid "Next"
+msgstr ""
+
+#: include/class-cron.php:614 include/class-stock-log.php:491
+msgid "Database is empty!"
+msgstr ""
+
+#: include/class-cron.php:614 include/class-stock-log.php:491
+msgid ""
+"It seems there's nothing to show. please check your log setting and use the "
+"app to generate some logs."
+msgstr ""
+
+#: include/class-cron.php:640 include/class-stock-log.php:509
+msgid "Active Filters:"
+msgstr ""
+
+#: include/class-cron.php:678 include/class-stock-log.php:547
+msgid "Items per page"
+msgstr ""
+
+#: include/class-cron.php:679 include/class-cron.php:680
+#: include/class-cron.php:681 include/class-cron.php:682
+#: include/class-cron.php:683 include/class-cron.php:684
+#: include/class-cron.php:685 include/class-cron.php:686
+#: include/class-cron.php:687 include/class-cron.php:688
+#: include/class-cron.php:689 include/class-cron.php:690
+#: include/class-stock-log.php:548 include/class-stock-log.php:549
+#: include/class-stock-log.php:550 include/class-stock-log.php:551
+#: include/class-stock-log.php:552 include/class-stock-log.php:553
+#: include/class-stock-log.php:554 include/class-stock-log.php:555
+#: include/class-stock-log.php:556 include/class-stock-log.php:557
+#: include/class-stock-log.php:558 include/class-stock-log.php:559
+#, php-format
+msgctxt "items_per_page"
+msgid "Show %s items per page"
+msgstr ""
+
+#: include/class-cron.php:692 include/class-stock-log.php:561
+#, php-format
+msgid "Show all %s items at once"
+msgstr ""
+
+#: include/class-cron.php:692 include/class-stock-log.php:561
+msgid "Show the only found data"
+msgstr ""
+
+#: include/class-cron.php:697 include/class-stock-log.php:566
+#, php-format
+msgid ", Search result: %d"
+msgid_plural ", Search results: %d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-cron.php:704 include/class-stock-log.php:573
+msgid "Advanced Search in Database"
+msgstr ""
+
+#: include/class-cron.php:710 include/class-stock-log.php:579
+msgid "Exact Match: "
+msgstr ""
+
+#: include/class-cron.php:711 include/class-stock-log.php:580
+msgid "Relation: "
+msgstr ""
+
+#: include/class-cron.php:714 include/class-stock-log.php:583
+msgid "Search now"
+msgstr ""
+
+#: include/class-cron.php:715 include/class-stock-log.php:584
+msgid "Clear search"
+msgstr ""
+
+#: include/class-cron.php:766 include/class-stock-log.php:633
+#, php-format
+msgid "Only %s Record indexed"
+msgid_plural "%s Records indexed"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-stock-log.php:163
+msgid "WooCommerce Stock History"
+msgstr ""
+
+#: include/class-stock-log.php:182 include/class-stock-log.php:194
+msgctxt "db-column"
+msgid "Extras"
+msgstr ""
+
+#: include/class-stock-log.php:183 include/class-stock-log.php:192
+msgctxt "db-column"
+msgid "Referer Hook"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: mnstudio-pro.php:100 mnstudio-pro.php:145
+msgid "MNStudio Pro"
+msgstr ""
+
+#: mnstudio-pro.php:145
+msgid "MNStudio Pro - Configuration"
+msgstr ""
+
+#: mnstudio-pro.php:146
+msgid "MNStudio Pro - CronJob List"
+msgstr ""
+
+#: mnstudio-pro.php:146
+msgid "New CronJob"
+msgstr ""
+
+#: mnstudio-pro.php:147
+msgid "MNStudio Pro - Stock History"
+msgstr ""
+
+#: mnstudio-pro.php:147 mnstudio-pro.php:1371
+msgid "Stock History"
+msgstr ""
+
+#: mnstudio-pro.php:403
+msgctxt "sms-error"
+msgid "SMS Provider credentials is not filled completely."
+msgstr ""
+
+#. translators: %s: taxes
+#: mnstudio-pro.php:1300
+#, php-format
+msgid "(includes %s)"
+msgstr ""
+
+#: mnstudio-pro.php:1345
+#, php-format
+msgctxt "footer-copyright"
+msgid "%s — Version %s"
+msgstr ""
+
+#: mnstudio-pro.php:1357
+msgid "MNStudio Configuration"
+msgstr ""
+
+#: mnstudio-pro.php:1360
+msgctxt "setting-general"
+msgid "Settings saved successfully."
+msgstr ""
+
+#: mnstudio-pro.php:1366
+msgid "General"
+msgstr ""
+
+#: mnstudio-pro.php:1367 mnstudio-pro.php:1566
+msgid "Translate"
+msgstr ""
+
+#: mnstudio-pro.php:1368
+msgid "String Replace"
+msgstr ""
+
+#: mnstudio-pro.php:1369
+msgid "Modules"
+msgstr ""
+
+#: mnstudio-pro.php:1370
+msgid "CronJob"
+msgstr ""
+
+#: mnstudio-pro.php:1380
+msgid "General Configuration"
+msgstr ""
+
+#: mnstudio-pro.php:1387
+msgid "Active Debug Mode"
+msgstr ""
+
+#: mnstudio-pro.php:1388
+msgid "Currency-based Cache"
+msgstr ""
+
+#: mnstudio-pro.php:1389
+msgid "Favicon"
+msgstr ""
+
+#: mnstudio-pro.php:1390
+msgid "Diet Addon Label"
+msgstr ""
+
+#: mnstudio-pro.php:1391
+msgid "Diet Product ID"
+msgstr ""
+
+#: mnstudio-pro.php:1392
+msgid "Pregnancy Addon Label"
+msgstr ""
+
+#: mnstudio-pro.php:1393
+msgid "Pregnancy Product ID"
+msgstr ""
+
+#: mnstudio-pro.php:1394
+msgid "Secure-link Base"
+msgstr ""
+
+#: mnstudio-pro.php:1395
+msgid "Secure-link Secret"
+msgstr ""
+
+#: mnstudio-pro.php:1396
+msgid "Telegram URL"
+msgstr ""
+
+#: mnstudio-pro.php:1397
+msgid "Telegram Title"
+msgstr ""
+
+#: mnstudio-pro.php:1398
+msgid "Paypal WC-Gateway"
+msgstr ""
+
+#: mnstudio-pro.php:1399
+msgid "Rest-pass Email Subject"
+msgstr ""
+
+#: mnstudio-pro.php:1399
+msgid "Leave empty to use default"
+msgstr ""
+
+#: mnstudio-pro.php:1400
+msgid "Rest-pass Email Body"
+msgstr ""
+
+#: mnstudio-pro.php:1400
+msgid "Leave empty to use default, use following macros: "
+msgstr ""
+
+#: mnstudio-pro.php:1411
+msgid "SMS Queue Interval"
+msgstr ""
+
+#: mnstudio-pro.php:1411
+msgid ""
+"Set Queue Interval in Minutes to check unsent Email/SMS from list and send "
+"x-items per interval"
+msgstr ""
+
+#: mnstudio-pro.php:1412
+msgid "SMS Queue Items per Interval"
+msgstr ""
+
+#: mnstudio-pro.php:1412
+msgid ""
+"How many unsent Email/SMS should be sent in single Interval cycle.<br>It is "
+"recomonded to send less than 6 items per minutes"
+msgstr ""
+
+#: mnstudio-pro.php:1413
+msgid "Global Discount"
+msgstr ""
+
+#: mnstudio-pro.php:1413
+msgid ""
+"Add a globally discount applied on all products (within category below), "
+"leave empty to disable."
+msgstr ""
+
+#: mnstudio-pro.php:1414
+msgid "Global Discount Category"
+msgstr ""
+
+#: mnstudio-pro.php:1414
+msgid ""
+"Enter category slug to apply global discount on it. Use comma to separate "
+"multiple items."
+msgstr ""
+
+#: mnstudio-pro.php:1423
+msgid "IPPanel Configuration"
+msgstr ""
+
+#: mnstudio-pro.php:1432
+msgid "Server"
+msgstr ""
+
+#: mnstudio-pro.php:1438
+msgid "Username"
+msgstr ""
+
+#: mnstudio-pro.php:1443
+msgid "Password"
+msgstr ""
+
+#: mnstudio-pro.php:1448
+msgid "Sender number"
+msgstr ""
+
+#: mnstudio-pro.php:1465
+msgid "Modules Configuration"
+msgstr ""
+
+#: mnstudio-pro.php:1565 mnstudio-pro.php:1612
+msgid "Original"
+msgstr ""
+
+#: mnstudio-pro.php:1567
+msgid "TextDomain"
+msgstr ""
+
+#: mnstudio-pro.php:1568 mnstudio-pro.php:1614
+msgid "Options"
+msgstr ""
+
+#: mnstudio-pro.php:1569 mnstudio-pro.php:1615
+msgid "Action"
+msgstr ""
+
+#: mnstudio-pro.php:1574 mnstudio-pro.php:1620
+msgid "Original text ..."
+msgstr ""
+
+#: mnstudio-pro.php:1575 mnstudio-pro.php:1621
+msgid "Translate to ..."
+msgstr ""
+
+#: mnstudio-pro.php:1576
+msgid "Text Domain (Optional)"
+msgstr ""
+
+#: mnstudio-pro.php:1578
+msgid "Partial Replace?"
+msgstr ""
+
+#: mnstudio-pro.php:1579
+msgid "Use RegEx?"
+msgstr ""
+
+#: mnstudio-pro.php:1580
+msgid "Translated Origin?"
+msgstr ""
+
+#: mnstudio-pro.php:1583 mnstudio-pro.php:1627
+msgid "Delete Row"
+msgstr ""
+
+#: mnstudio-pro.php:1589 mnstudio-pro.php:1633
+msgid "Add New Row"
+msgstr ""
+
+#: mnstudio-pro.php:1595
+msgid "Migrate Translation"
+msgstr ""
+
+#: mnstudio-pro.php:1600
+msgid "Translation Data"
+msgstr ""
+
+#: mnstudio-pro.php:1613
+msgid "Replace"
+msgstr ""
+
+#: mnstudio-pro.php:1623
+msgid "Green: Replace in Output Buffer | Red: Replace in Content Only"
+msgstr ""
+
+#: mnstudio-pro.php:1624
+msgid "Active"
+msgstr ""
+
+#: mnstudio-pro.php:1639
+msgid "Migrate String Replace"
+msgstr ""
+
+#: mnstudio-pro.php:1644
+msgid "String Replace Data"
+msgstr ""
+
+#: mnstudio-pro.php:1756
+msgid "Save setting"
+msgstr ""
+
+#: mnstudio-pro.php:1802
+#, php-format
+msgid "ID #%s [deleted-user]"
+msgstr ""
+
+#: mnstudio-pro.php:1900
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: mnstudio-pro.php:2554 mnstudio-pro.php:2633
+msgid "Scheduled Notifications"
+msgstr ""
+
+#: mnstudio-pro.php:2558 mnstudio-pro.php:2638
+msgid "The setting will be applied to Orders placed from now afterward"
+msgstr ""
+
+#: mnstudio-pro.php:2565 mnstudio-pro.php:2648
+msgid "Notification 1 Date"
+msgstr ""
+
+#: mnstudio-pro.php:2569 mnstudio-pro.php:2599 mnstudio-pro.php:2654
+#: mnstudio-pro.php:2689
+msgid ""
+"Date notification will be sent, days after the order placed. Use 0 to "
+"Disable."
+msgstr ""
+
+#: mnstudio-pro.php:2574 mnstudio-pro.php:2604 mnstudio-pro.php:2658
+#: mnstudio-pro.php:2693
+msgid "Email Subject"
+msgstr ""
+
+#: mnstudio-pro.php:2579 mnstudio-pro.php:2609 mnstudio-pro.php:2664
+#: mnstudio-pro.php:2699
+msgid "Notification Email"
+msgstr ""
+
+#: mnstudio-pro.php:2581 mnstudio-pro.php:2612 mnstudio-pro.php:2668
+#: mnstudio-pro.php:2703
+msgid ""
+"Empty content to disable this kind of notification. Shortcodes are "
+"supported."
+msgstr ""
+
+#: mnstudio-pro.php:2586 mnstudio-pro.php:2616 mnstudio-pro.php:2672
+#: mnstudio-pro.php:2707
+msgid "Notification SMS"
+msgstr ""
+
+#: mnstudio-pro.php:2588 mnstudio-pro.php:2618 mnstudio-pro.php:2676
+#: mnstudio-pro.php:2711
+msgid ""
+"Empty content to disable this kind of notification. SMS Macros are "
+"supported."
+msgstr ""
+
+#: mnstudio-pro.php:2595 mnstudio-pro.php:2683
+msgid "Notification 2 Date"
+msgstr ""
+
+#: mnstudio-pro.php:3313 mnstudio-pro.php:3338
+msgid "Dollar Regular Price"
+msgstr ""
+
+#: mnstudio-pro.php:3321 mnstudio-pro.php:3351
+msgid "Dollar Sale Price"
+msgstr ""
+
+#: mnstudio-pro.php:3366
+msgid "Dollar Discount Price"
+msgstr ""
+
+#: mnstudio-pro.php:3749 mnstudio-pro.php:3769 mnstudio-pro.php:3813
+#, php-format
+msgctxt "setting-page"
+msgid "Enter %s"
+msgstr ""
+
+#: mnstudio-pro.php:3789
+#, php-format
+msgctxt "setting-page"
+msgid "Choose %s"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://amirhp.com/landing"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"MNStudio Pro adds custom functionalities and provides enhanced new features "
+"to the site"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlackSwan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blackswandev.com/"
+msgstr ""
